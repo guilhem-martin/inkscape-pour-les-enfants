@@ -36,40 +36,25 @@
 
 ![alt text](img/contourtaille.png)
 
-(continuer ci-dessous)
 
 Étape 3 : Ajouter les Lettres ABC
 
-    Sélectionnez l'outil Texte dans la barre d'outils de gauche (ou appuyez sur la touche T).
-
+    Sélectionnez l'outil Texte dans la barre d'outils de gauche ou appuyez sur la touche T.
     Cliquez à l'intérieur du rectangle et tapez les lettres "ABC".
+
+![alt text](img/abc.png)
+
+    Choisir un contour vide.
+    Pour le remplissage, choisir la couleur noire.
 
     Changez la taille et la police des lettres si nécessaire en utilisant la barre d'outils de texte en haut.
 
-    Utilisez l'outil Sélection (touche S) pour déplacer et ajuster les lettres afin qu'elles soient bien centrées à l'intérieur du rectangle.
+![alt text](img/taillepolice.png)
 
-    ![image](https://github.com/user-attachments/assets/bbf38b00-4075-4c63-a085-611b1be292ae)
+    Utilisez l'outil Sélection ou la touche S pour déplacer et ajuster les lettres afin qu'elles soient bien centrées à l'intérieur du rectangle.
 
-Étape 5 : Préparer pour la Découpe Laser
+    Vous devez obtenir un résultat similaire à celui-ci :
 
+![alt text](img/resultat.png)
 
-
-    Sélectionnez les lettres.
-
-    Dans l'onglet "Remplissage", choisissez la couleur noire.
-
-    Dans l'onglet "Contour", sélectionnez "Aucun" pour indiquer que les lettres seront simplement marquées.
-
-Étape 6 : Enregistrer le Fichier
-
-    Sauvegardez votre travail en allant dans "Fichier" > "Enregistrer sous" et choisissez le format de fichier adapté à votre découpeuse laser (souvent, un fichier SVG est utilisé).
-
-Étape 7 : Découpe Laser
-
-    Importez le fichier dans le logiciel de votre découpeuse laser.
-
-    Ajustez les paramètres de découpe et de marquage selon les recommandations de votre machine.
-
-    Lancez la découpe et regardez votre création prendre vie !
-
-Voilà ! Vous avez maintenant un joli rectangle avec les lettres ABC prêtes pour la découpe laser. Bon amusement ! 🎨✨
+Voilà ! Vous avez maintenant un rectangle avec les lettres ABC.
